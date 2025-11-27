@@ -1,0 +1,5 @@
+{
+    "name": "arcade/retro",
+    "description": "Proyecto arcade retro en PHP",
+    "require": {}
+}
